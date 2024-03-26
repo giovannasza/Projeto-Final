@@ -1,0 +1,7 @@
+A empresa possui diversos equipamentos, computadores, notebooks, móveis, etc. Cada equipamento desses precisa ter um registro único (chamado tombamento) onde cada equipamento pertence a uma sala, todo equipamento durável (móveis, eletrônicos…) dentro da sala é considerado patrimônio e, portanto, precisa de registro.
+Você precisa fazer um sistema, de linha de comando mesmo, em que seja possível cadastrar novos equipamentos, consultar equipamentos, apagar, atualizar e trocar o equipamento de sala, também é preciso cadastrar e atualizar salas.
+O gestor precisa também emitir relatórios:
+●	Quais são os equipamentos da sala.
+●	Lista de todos os equipamentos.
+●	Lista das salas.
+Para fins de documentação você precisa fazer toda análise de requisitos, um projeto do banco de dados e o desenvolvimento do sistema.
